@@ -1,0 +1,5 @@
+FB_URL = "https://www.facebook.com/"
+FB_EMAIL = "vladrekruter308@gmail.com"
+FB_PASSWORD = "HGwhqgfqwtgvcq1"
+DB_URL = "sqlite:///fb_bot.sqlite3"
+DEFAULT_QUERY = "Работа Польша"
